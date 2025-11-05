@@ -1,5 +1,5 @@
-*.md linguist-language=Markdown
-*.yml linguist-language=YAML
+*.md linguist-detectable=true
+*.yml linguist-detectable=true
 *.png linguist-language=Image
 *.gitattributes linguist-language=Git Attributes
 LICENSE linguist-language=Text
